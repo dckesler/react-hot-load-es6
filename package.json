@@ -1,0 +1,24 @@
+{
+  "name": "Scaffold",
+  "version": "1.0.0",
+  "description": "Basic Scaffolding for React hot reload project in ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^4.7.13",
+    "babel-core": "^4.7.13",
+    "babel-loader": "^4.2.0",
+    "css-loader": "^0.9.1",
+    "react-hot-loader": "^1.2.3",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.7.3",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "dependencies": {
+    "react": "^0.13.1"
+  }
+}
