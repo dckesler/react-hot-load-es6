@@ -1,4 +1,11 @@
-
-node_modules
-.DS_Store
 .idea/
+node_modules/
+.DS_Store
+public/bundle.js
+.jshintrc
+https:
+rethinkdb_data
+public/*
+!public/index.html
+dump.rdb
+server/constants.js
