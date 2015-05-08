@@ -1,4 +1,5 @@
 import React from "react";
+require('./example.css');
 
 var Example = React.createClass({
   getInitialState(){
